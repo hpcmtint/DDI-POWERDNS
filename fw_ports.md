@@ -1,6 +1,14 @@
-1
+# FW NAT PORT 
 
-[](https://superuser.com/posts/1806299/timeline)
+I'm running a local dns server on port 5300 to develop a software. I need my machine to use that dns but I wasn't able to tell /etc/resolv.conf to check on a different port. I searched a bit on google and I didn't find a solution.
+
+I set 127.0.0.1 as nameserver on /etc/resolv.conf. This is my whole /etc/resolv.conf:
+
+nameserver 127.0.0.1
+
+Could you please tell me how can I redirect outbound traffic on port 53 to another port?
+
+[ARTICLE](https://superuser.com/posts/1806299/timeline)
 
 You can specify a different for DNS (for instance BIND) to LISTEN on, as that's controlled via `/etc/named.conf`, but the issue is getting the DNS client to connect to the DNS server on that port rather than the default port 53.
 
