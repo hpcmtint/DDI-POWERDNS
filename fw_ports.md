@@ -4,7 +4,7 @@ I'm running a local dns server on port 5300 to develop a software. I need my mac
 
 I set 127.0.0.1 as nameserver on /etc/resolv.conf. This is my whole /etc/resolv.conf:
 
-nameserver 127.0.0.1
+```nameserver 127.0.0.1```
 
 Could you please tell me how can I redirect outbound traffic on port 53 to another port?
 
@@ -20,13 +20,7 @@ The way others have achieved that is to use `iptables` to reroute that internal 
 
 But the crucial points are to 1) update your `/etc/resolv.conf` to include an entry for `127.0.0.1` and then add a rule in iptables to handle the redirect as :
 
-```
+```bash
 iptables -t nat -A OUTPUT -p tcp --dport domain -j DNAT --to-destination 127.0.0.1:5300
 iptables -t nat -A OUTPUT -p udp --dport domain -j DNAT --to-destination 127.0.0.1:5300
 ```
-
-[Share](https://superuser.com/a/1806299 "Short permalink to this answer")
-
-[Improve this answer](https://superuser.com/posts/1806299/edit)
-
-Follow
