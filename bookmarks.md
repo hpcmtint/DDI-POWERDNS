@@ -2,6 +2,12 @@ DDI with PowerDNS/BIND
 
 https://stork.readthedocs.io/en/v1.14.0/
 
+
+Access Denied
+Enabling 2fa with GitLab and 1Password - YouTube
+gitlab two factor authentication - YouTube
+How to Install SecureID RSA Authentication on Linux - TurboGeek
+Two-Factor Git over SSH With YubiKey and GitLab | by Chris Hammond | Medium
 BIND/DNS/POWERDNS
 DDI with PowerDNS/BIND
 BIND
@@ -45,4 +51,3 @@ Running PowerDNS in the local environment with PowerDNS-Admin | by Francisco Her
 Stork Management Dashboard for Kea DHCP - YouTube
 The Portal - Home
 zone2sql — PowerDNS Authoritative Server documentation
-CEPH
