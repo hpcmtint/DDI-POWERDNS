@@ -25,6 +25,7 @@ https://reports.kea.isc.org/dev_guide/d5/d92/libdhcp_bootp.html
 VIDEOS DDNS with KEA
 
 https://www.youtube.com/watch?v=wU7Wbbppaqg
+
 https://www.techtutorials.tv/sections/linux/how-to-setup-ddns-using-kea-and-bind/
 
 
