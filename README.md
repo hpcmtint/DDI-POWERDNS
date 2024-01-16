@@ -36,8 +36,9 @@ https://www.techtutorials.tv/sections/linux/how-to-setup-ddns-using-kea-and-bind
 
 https://gitlab.isc.org/isc-projects/kea/-/wikis/docs/editing-host-reservations
 
+DHCP GUI (OLD)
 
-
+https://github.com/Akkadius/glass-isc-dhcp?tab=readme-ov-file#glass-process-keepalive
 
 
 
