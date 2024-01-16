@@ -224,42 +224,5 @@ Shell session
 
 Credit : this tutorial is based on this marvelous post from [Carll On Medium](https://carll.medium.com/get-up-and-running-on-with-your-own-dns-and-dhcp-server-from-scratch-powerdns-isc-dhcp-server-4b9d6185d275)
 
-[
+[How to compile, install and configure openLDAP in Centos 8](https://thedummit.com/how-to-compile-install-and-configure-openldap-in-centos-8/)
 
-#### How to compile, install and configure openLDAP in Centos 8
-
-](https://thedummit.com/how-to-compile-install-and-configure-openldap-in-centos-8/)
-
-3 1 vote
-
-Article Rating
-
-Subscribe
-
-Notify of
-
-Label
-
-Name\*
-
-Email\*
-
-Website
-
-Δ
-
-Label
-
-Name\*
-
-Email\*
-
-Website
-
-Δ
-
-0 Comments
-
-Inline Feedbacks
-
-View all comments
