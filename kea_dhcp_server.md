@@ -43,7 +43,7 @@ Kea supports two database backends; **MySQL and PostgreSQL**. **Choose to store 
 3.  Administer global options from a centralized configuration backend.
 4.  Manage large address pools in a database rather than a text file.
 
-![1687090451527634944](https://forum.huawei.com/enterprise/api/file/v1/small/thread/687090451527634944.png?appid=esc_en "1687090451527634944")
+![1687090451527634944](https://github.com/hpcmtint/DDI-POWERDNS/blob/main/687090451527634944.png)
 
 In the world of IP address management, Kea DHCP stands as a powerful and versatile solution, offering modern features and enhanced capabilities. Its flexibility, support for both IPv4 and IPv6, and dynamic address allocation make it an excellent choice for networks of all sizes and types. With its robust failover mechanisms, host reservation, and support for DHCPv6 Prefix Delegation, Kea DHCP empowers network administrators to ensure efficient IP address assignment and network performance.
 
