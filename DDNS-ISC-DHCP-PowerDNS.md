@@ -3,16 +3,6 @@
 [DDNS with ISC-DHCP and PowerDNS on Debian 10 Buster](https://thedummit.com/ddns-with-isc-dhcp-and-powerdns-on-debian-10-buster/)
 Powered by OpenAI
 
-Auto open off
-
-*   off
-*   (this site)
-*   (this site)/ddn
-*   s-with-isc-dhcp-and-powerdns-on-debian-10-buster
-
-*   DDNS with ISC-DHCP and PowerDNS on Debian 10 Buster - The Dummit
-*   How to compile, install and configure openLDAP in Centos 8
-
 ##### Links
 
 *   [Carll On Medium](https://carll.medium.com/get-up-and-running-on-with-your-own-dns-and-dhcp-server-from-scratch-powerdns-isc-dhcp-server-4b9d6185d275)
