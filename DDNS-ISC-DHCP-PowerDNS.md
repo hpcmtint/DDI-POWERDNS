@@ -1,7 +1,6 @@
 # DDNS with ISC-DHCP and PowerDNS on Debian 10 Buster - The Dummit
 
 [DDNS with ISC-DHCP and PowerDNS on Debian 10 Buster](https://thedummit.com/ddns-with-isc-dhcp-and-powerdns-on-debian-10-buster/)
-Powered by OpenAI
 
 ##### Links
 
