@@ -343,4 +343,8 @@ On the other hand the DNS server may show an ouptut of REFUSED for instance and 
 
 TIP: Comment out the update-policy command and use the allow-update command instead. If that works then check the zonefile to see what records were added. Update your policy accordingly and revert to using the update-policy command
 
-<iframe src="https://www.youtube.com/embed/wU7Wbbppaqg" allowfullscreen="" title="YouTube Video" data-darkreader-inline-border-top="" data-darkreader-inline-border-right="" data-darkreader-inline-border-bottom="" data-darkreader-inline-border-left=""></iframe>
+ref:
+
+https://www.techtutorials.tv/sections/linux/how-to-setup-ddns-using-kea-and-bind/
+https://www.youtube.com/watch?v=wU7Wbbppaqg
+
