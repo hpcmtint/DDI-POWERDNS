@@ -14,6 +14,8 @@ https://computingforgeeks.com/running-powerdns-and-powerdns-admin-in-docker-cont
 
 https://github.com/isc-projects/kea/blob/master/doc/examples/ddns/sample1.json
 
+https://github.com/isc-projects/kea/blob/master/src/bin/keactrl/kea-dhcp4.conf.pre
+
 **SUBNETS**
 
 https://github.com/isc-projects/kea/tree/master/doc/examples/kea4
