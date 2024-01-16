@@ -8,6 +8,8 @@ https://doc.powerdns.com/authoritative/index.html
 
 https://computingforgeeks.com/running-powerdns-and-powerdns-admin-in-docker-containers/
 
+https://carll.medium.com/get-up-and-running-on-with-your-own-dns-and-dhcp-server-from-scratch-powerdns-isc-dhcp-server-4b9d6185d275
+
 **DDNS/DHCP config in KEA**
 
 /etc/kea/kea-dhcp-dns.conf
