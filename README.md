@@ -36,12 +36,12 @@ https://www.techtutorials.tv/sections/linux/how-to-setup-ddns-using-kea-and-bind
 
 https://gitlab.isc.org/isc-projects/kea/-/wikis/docs/editing-host-reservations
 
-**DHCP GUI (OLD)
-**
+**DHCP GUI (OLD)**
+
 https://github.com/Akkadius/glass-isc-dhcp
 
-**PHPIPAM VIDEO TRAINING
-**
+**PHPIPAM VIDEO TRAINING**
+
 https://www.youtube.com/playlist?list=PL4Pha8FDk9Z6fMURBqtufZZaZSm95LH7t
 
 
